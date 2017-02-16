@@ -1,4 +1,5 @@
 .DS_Store
 node_modules/
+documentation/index.html
 *.sublime-project
 *.sublime-workspace
